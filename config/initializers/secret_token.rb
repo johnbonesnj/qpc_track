@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-QpcTrack::Application.config.secret_key_base = 'd5fdde5ab86bcec4c86a89abbcf1b4befa16e2d48f4bc4fe345e7f7993005a2240622ed9319d8e74871483157da65e736059bddc17ddb5ae8b01a00b68e9a30e'
+QpcTrack::Application.config.secret_key_base = 'ae73bbcb164e67069b6e9a12dde512c56a0cb2a08bdc685ac31f1a0887b33888464ac5f4a1af120821850a4a85a69e3158642b47c247839618af6617a0481fa6'
